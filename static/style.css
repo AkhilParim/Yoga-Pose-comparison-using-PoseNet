@@ -1,0 +1,12 @@
+.svg-class{
+    margin-top: -80px;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+}
+h1{
+    color: #fff;
+    position: absolute;
+    top: 85px;
+    left: 780px;
+}
